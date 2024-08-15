@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="none"
+    android:id="@+id/g1">
+    <item android:id="@+id/Rewiew"
+        android:icon="@drawable/review"
+        android:title="Review"
+        >
+
+    </item>
+    <item android:title="@string/Favorite"
+        android:icon="@drawable/star"
+        android:id="@+id/favorite">
+
+    </item>
+    <item android:icon="@drawable/search"
+        android:id="@+id/search"
+        android:title="@string/search"
+        ></item>
+</group>
+
+
+
+
+<group android:checkableBehavior="none"
+    android:id="@+id/g2">
+    <item android:id="@+id/profilemenu"
+        android:icon="@drawable/user"
+        android:title="@string/Profile">
+
+    </item>
+    <item android:title="@string/Setting" android:icon="@drawable/setting"
+        android:id="@+id/settings">
+
+    </item>
+</group>
+
+</menu>

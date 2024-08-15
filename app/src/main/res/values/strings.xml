@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="add_to_read">Want to read\n</string>
+    <string name="authorname">Author name\n</string>
+    <string name="bookname">Book name</string>
+    <string name="bookimage">bookimage</string>
+    <string name="Books">Books</string>
+    <string name="notification">Notification\n</string>
+    <string name="NotifyClicked">Notification clicked</string>
+    <string name="Username">Asmaa Hamdy\n</string>
+    <string name="todo">TODO</string>
+    <string name="Favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="Profile">Profile\n</string>
+    <string name="Setting">Settings</string>
+    <string name="RatingClicked">Rating clicked</string>
+    <string name="SettingClicked">Setting clicked</string>
+    <string name="profileclicked">Profile clicked</string>
+    <string name="favouriteclicked">Favourite clicked</string>
+    <string name="Rewiewclicked">Review Clicked\n</string>
+    <string name="Searchclicked">Search clicked</string>
+
+</resources>
